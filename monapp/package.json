@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Example Node.js app for Azure App Service",
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "dependencies": {},
   "engines": {
